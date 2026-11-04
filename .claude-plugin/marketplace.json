@@ -1,4 +1,6 @@
 {
+  "name": "anna-marketplace",
+  "owner": "Anna-0805",
   "plugins": [
     {
       "name": "qa-workflow-kit",
