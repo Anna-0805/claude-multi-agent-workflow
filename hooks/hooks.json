@@ -1,5 +1,5 @@
 {
   "pre-commit": {
-    "command": "node ${CLAUDE_PLUGIN_ROOT}/course-api/node_modules/.bin/jest --passWithNoTests"
+    "command": "node --test ${CLAUDE_PLUGIN_ROOT}/course-api/"
   }
 }
