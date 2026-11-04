@@ -9,3 +9,11 @@ This is the example project your plugin tests against — the small Express API 
 - `npm run dev` — start the API on http://localhost:3000
 
 The code lives in `server.js`, `routes/`, and `db/`; the tests are in `tests/`.
+
+
+This plugin provides a comprehensive multi-agent workflow for code quality control.
+
+## Components
+- **Commands**: Orchestrates code reviews and testing pipelines.
+- **Agents**: Custom subagents for code analysis and test generation.
+- **Skills & Hooks**: Automated tasks for project health.
