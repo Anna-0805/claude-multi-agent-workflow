@@ -1,8 +1,5 @@
 ---
 name: qa-guidelines
-description: This skill guides the AI on how to systematically analyze JavaScript/TypeScript code for quality and security before submission.
+description: Provides guidelines for reviewing JavaScript and TypeScript code quality.
 ---
-
-## QA Guidelines
-
-This skill guides the AI on how to systematically analyze JavaScript/TypeScript code for quality and security before submission.
+Use these guidelines when reviewing code for quality and security.
